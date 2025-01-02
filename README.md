@@ -1,8 +1,10 @@
 # Building a ToDo App with Vue 3 and localStorage
-Learn to build a ToDo application using Vue 3's Composition API and localStorage for data persistence.
+In this codelab, we'll build a modern, interactive Todo application using Vue 3's Composition API and local storage for data persistence. The app features a clean, user-friendly interface where users can add, complete, and delete tasks, with tasks automatically saving to the browser's localStorage. We'll implement filtering capabilities to view all, active, or completed tasks, and style everything using CSS variables for consistent theming.
+
 ![Vue todo codelab](https://github.com/user-attachments/assets/4a63d1da-038e-474c-82b5-b0ad3e2e24f5)
 
 ## Codelab: [Click here](https://gradus.dev/labs/building-a-todo-app-with-vue-3-and-localstorage-VbdrUH)
+
 
 ### What you'll build
 1. A fully functional ToDo app
